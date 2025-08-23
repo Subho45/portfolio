@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Home",
+    "bio": "Bio",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "home": {
+    "name": "SUBHOJIT GHOSH",
+    "tagline": "Web Developer | AI Enthusiast | Creative Thinker"
+  },
+  "bio": {
+    "title": "About Me",
+    "paragraph1": "A dedicated final-year student pursuing a Bachelor of Technology in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Brainware University.",
+    "paragraph2": "My passion for technology drives me to constantly enhance my skills. I have a strong foundation in C, Python, HTML, CSS, JavaScript, and Java.",
+    "paragraph3": "I'm eager to learn, grow, and contribute to the ever-evolving field of computer science. Let's connect and explore opportunities together.",
+    "currentFocusTitle": "Current Focus",
+    "currentFocus": [
+      "Full Stack Web Development at Future Interns",
+      "AI & ML coursework and projects",
+      "Building responsive, modern web applications",
+      "Get placed in a company"
+    ],
+    "educationTitle": "Educational Details",
+    "btech": {
+      "degree": "B.Tech CSE (AI-ML)",
+      "institution": "Brainware University",
+      "location": "Kolkata, India",
+      "status": "Ongoing"
+    },
+    "hs1": {
+      "degree": "Indian Certificate of Secondary Education",
+      "institution": "West End High School",
+      "location": "Jhargram, India",
+      "year": "2022"
+    },
+    "hs2": {
+      "degree": "Indian Certificate of Secondary Education",
+      "institution": "Contai Public School",
+      "location": "Contai, India",
+      "year": "2020"
+    }
+  },
+  "skills": {
+    "title": "My Skills",
+    "intro": "Equipped with the right tools to build future-ready solutions.",
+    "coreTitle": "Core Technologies",
+    "core": ["Html", "CSS", "Javascript", "Django"],
+    "frontend": {
+      "title": "Frontend Development",
+      "items": ["HTML", "CSS", "JAVASCRIPT", "THREE.JS"]
+    },
+    "backend": {
+      "title": "Backend Development",
+      "items": ["Django"]
+    },
+    "languages": {
+      "title": "Programming Languages",
+      "items": ["JAVA", "PYTHON", "JAVASCRIPT", "C"]
+    },
+    "tools": {
+      "title": "Development Tools",
+      "items": ["VS CODE", "GIT HUB", "CHROME DEV TOOLS", "NPM"]
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "button": "Send Message"
+    },
+    "links": {
+      "linkedin": "LinkedIn",
+      "instagram": "Instagram",
+      "email": "Email"
+    }
+  }
+}
